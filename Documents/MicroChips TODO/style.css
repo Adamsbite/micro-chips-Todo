@@ -7,13 +7,13 @@ body {
     margin: auto;
 }
 
-#task-input {
+#task-input  {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
 }
 
-button {
+button  {
     padding: 10px;
     cursor: pointer;
 }
